@@ -1,6 +1,6 @@
 package com.all.tools.repository;
 
-import com.all.tools.handler.EmployeeEntity;
+import com.all.tools.entity.EmployeeEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 
